@@ -10,7 +10,9 @@
 💻 I'm a Front-end web developer based in Alexandria, Egypt.<br>
 🎓 Graduated from the Faculty of Computers and Data Science, Alexandria University<br>
 💬 Ask me about my expertise in NEXT.js, ReactJS, TypeScript, JavaScript, or anything related to web development.<br>
-👨‍💻 I'm passionate about continuous learning and exploring new technologies to enhance my skills.<br>
+🤖 I'm passionate about continuous learning and exploring new technologies to enhance my skills.<br>
+👨‍💻 Check out my portfolio at https://loaymady.vercel.app to see some of the projects I've worked on.<br>
+
 </p>
 
 <h3 align="center">Connect with Me:</h3>
