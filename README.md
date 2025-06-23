@@ -67,7 +67,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaymady&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=14" alt="Most Used Languages"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=loaymady&theme=dark&hide_border=true&border_radius=14&starting_year=2024&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffd33d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-streak-stats-six-inky.vercel.app/?user=loaymady&theme=dark&hide_border=true&border_radius=14&starting_year=2024&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffd33d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
 <h2 align="center">🌐 Connect With Me</h2>
